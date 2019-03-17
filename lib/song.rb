@@ -22,7 +22,7 @@ end
     self.artist
   end
   
-    
+
 
 
 end
