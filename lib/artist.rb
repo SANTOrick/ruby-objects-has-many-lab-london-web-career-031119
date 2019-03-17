@@ -12,7 +12,7 @@ def add_song(song)
 end
 
 def add_song_by_name(title)
-  # Create a new Song
+  title = Song.new(title)
 
 def self.song_count
   @songs.length
