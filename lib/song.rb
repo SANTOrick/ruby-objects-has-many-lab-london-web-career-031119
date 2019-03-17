@@ -18,5 +18,11 @@ end
     @artist = Artist.new(name)
   end
 
+  def artist_name
+    self.artist
+  end
+  
+    
+
 
 end
