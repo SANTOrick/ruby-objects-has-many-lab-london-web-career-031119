@@ -14,5 +14,8 @@ class Song
     @@all
 end
 
+  def artist =
+    @artist = Artist.new
+
 
 end
