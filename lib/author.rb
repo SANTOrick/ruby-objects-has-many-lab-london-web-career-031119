@@ -10,7 +10,7 @@ attr_accessor :name
   def add_post (post_name)
     post_name = Post.new
     @posts << self
-    
+
 
   end
 
