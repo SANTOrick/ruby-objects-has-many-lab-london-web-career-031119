@@ -15,6 +15,8 @@ def add_post_by_title(title)
     self.new_post = Post.new(title)
 end
 
+def self.post_count
+  @posts.length
   end
 
 end
