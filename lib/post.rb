@@ -17,5 +17,9 @@ def self.author=
   @author = Author.new
 end
 
+def self.author_name
+  self.author
+end
+
 
 end
