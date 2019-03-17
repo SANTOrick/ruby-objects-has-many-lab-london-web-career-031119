@@ -22,7 +22,6 @@ end
     self.artist
   end
 
-end
 
 
 end
